@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cybersafefoundation.org.uk/sitemap.xml
