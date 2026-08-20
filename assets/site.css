@@ -191,3 +191,9 @@ footer .legal{margin-top:32px;padding-top:20px;border-top:1px solid rgba(255,255
 #regionsuggest button{background:transparent;border:1px solid rgba(255,255,255,.55);color:#fff;
   border-radius:6px;padding:6px 12px;font:inherit;font-size:.85rem;cursor:pointer;margin-left:auto}
 #regionsuggest button:hover{background:rgba(255,255,255,.14)}
+
+/* director photos */
+.person .pfp{flex:0 0 74px;width:74px;height:74px;border-radius:50%;object-fit:cover;
+  border:3px solid #fff;box-shadow:0 0 0 1px var(--line),0 6px 16px -6px rgba(16,32,48,.35);
+  background:var(--panel)}
+@media(max-width:420px){.person{flex-direction:column}.person .pfp{width:82px;height:82px;flex-basis:auto}}
