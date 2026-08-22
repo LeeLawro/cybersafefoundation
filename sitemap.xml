@@ -48,4 +48,6 @@
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://cybersafefoundation.org.uk/funding/"/>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://cybersafefoundation.org.uk/us/funding/"/>
     <changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cybersafefoundation.org.uk/sponsor/</loc></url>
+  <url><loc>https://cybersafefoundation.org.uk/nominate/</loc></url>
 </urlset>
